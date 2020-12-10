@@ -1,4 +1,4 @@
-### Hi there , I'm Pradeep <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hey there , I'm Pradeep <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyneel" alt="Pradeep" /> </p>
 

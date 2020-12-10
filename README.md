@@ -8,9 +8,14 @@
 <a href="https://github.com/pradyneel/github-readme-stats">
 <img src= "https://github-readme-stats.vercel.app/api?username=pradyneel&theme=tokyonight&show_icons=true" />
 </a>
+<br/>
+<br/>
 
-
-
+<a href="https://github.com/sowjanya-105/github-readme-stats">
+<img align="right" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya-105&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  </a>
+  <br/><br/><br/>
+  
 
 <p align="left"> - 💻 I’m an aspiring Data Scientist and a passionate Web Developer <br>
 - 👀 I’m looking to collaborate on Open Source Projects<br>

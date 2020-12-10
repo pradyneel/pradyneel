@@ -5,12 +5,16 @@
 
 
 
+<a href="https://github.com/pradyneel/github-readme-stats">
+<img src= "https://github-readme-stats.vercel.app/api?username=pradyneel&theme=tokyonight&show_icons=true" />
+</a>
 
 
 
 
-
-
+<p align="left"> - 💻 I’m an aspiring Data Scientist and a passionate Web Developer <br>
+- 👀 I’m looking to collaborate on Open Source Projects<br>
+- 💬 I'm flexible to work on various roles such as a team leader, data analyst, web developer, digital marketer, content developer and designer, community manager, trainer and a lot more. <br>
 
 
 
@@ -23,9 +27,7 @@
 </p>
 
 
-<p align="left"> - 💻 I’m an aspiring Data Scientist and a passionate Web Developer <br>
-- 👀 I’m looking to collaborate on Open Source Projects<br>
-- 💬 I'm flexible to work on various roles such as a team leader, data analyst, web developer, digital marketer, content developer and designer, community manager, trainer and a lot more. <br>
+
 
 <!--
 **pradyneel/pradyneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

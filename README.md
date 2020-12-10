@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td>![](https://komarev.com/ghpvc/?username=your-github-username)</td>
+    <td>![](https://komarev.com/ghpvc/?username=pradyneel)</td>
   </tr>
 </table>
 

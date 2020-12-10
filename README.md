@@ -1,6 +1,6 @@
 ### Hi there , I'm Pradeep <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyneel" alt="Pradeep" /> </p>
 
 
 
@@ -22,6 +22,10 @@
   <a href="https://www.linkedin.com/in/pradeep-n-0703a2191/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
 
+
+<p align="left"> - 💻 I’m an aspiring Data Scientist and a passionate Web Developer <br>
+- 👀 I’m looking to collaborate on Open Source Projects<br>
+- 💬 I'm flexible to work on various roles such as a team leader, data analyst, web developer, digital marketer, content developer and designer, community manager, trainer and a lot more. <br>
 
 <!--
 **pradyneel/pradyneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

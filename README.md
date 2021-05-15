@@ -17,10 +17,8 @@
   <br/><br/><br/>
   
 
-<p align="left"> - 💻 I’m an aspiring Data Scientist and a passionate Web Developer <br>
+<p align="left"> 
 - 👀 I’m looking to collaborate on Open Source Projects<br>
-- 💬 I'm flexible to work on various roles such as a data analyst, web developer,content developer and designer, community manager, trainer and a lot more. <br>
-
 
 
 
